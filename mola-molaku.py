@@ -59,7 +59,7 @@ if __name__ == "__main__":
     app = QApplication(sys.argv)
     
     # Masukkan nama file gambar Anda di sini
-    mola = MolaAkuarium("mola-molaku.png", "mola-molakuberkedip1.png") 
+    mola = MolaAkuarium("mola2senyum.png", "mola2ngedip.png") 
     mola.show()
     
     sys.exit(app.exec())
